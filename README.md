@@ -1,5 +1,7 @@
 # IEG — Indian Epigraphical Glossary
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23151338.svg)](https://doi.org/10.5281/zenodo.23151338)
+
 _Created: 24-06-2026 · Last updated: 11-07-2026_
 
 Digital edition of the **Indian Epigraphical Glossary** (IEG) by **Dineschandra Sircar**
